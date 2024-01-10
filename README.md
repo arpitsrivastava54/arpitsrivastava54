@@ -1,4 +1,17 @@
 
+<h1 align="center">I'm Arpit Srivastava</h1>
+<h3 align="center"> Passionate Full Stack Web developer </h3>
+
+
+- 🔭 I’m currently working on **Web Development (MERN STACK)**
+
+- 🌱 I’m currently learning **Next.Js**
+
+- 👨‍💻 All of my projects are available at [arpitsrivastava.netlify.app](arpitsrivastava.netlify.app)
+
+- 💬 Ask me about **react , vite , nodejs**
+
+- 📫 How to reach me **arpitsrivastava54@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-srivastava-b4788027a) 
 
