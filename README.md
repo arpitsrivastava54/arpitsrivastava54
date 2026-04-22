@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [itsarpit.dev](itsarpit.dev)
+- 👨‍💻 All of my projects are available at [itsarpit.dev](https://itsarpit.dev)
 
 - 💬 Ask me about **react , vite , nodejs**
 
