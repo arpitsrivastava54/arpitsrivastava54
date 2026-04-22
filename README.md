@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [arpitsrivastava.vercel.app](arpitsrivastava.vercel.app)
+- 👨‍💻 All of my projects are available at [arpitsrivastava.vercel.app](itsarpit.dev)
 
 - 💬 Ask me about **react , vite , nodejs**
 
